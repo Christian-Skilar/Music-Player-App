@@ -1,5 +1,11 @@
 # music-player-app
-This was a code along course i took using react, tailwind, rapidAPI and more
+This was a code along course i took using react, tailwind, rapidAPI and more.
+
+- The site have Discover, top chart, top artists and around you pages.
+- Sort by genres 
+- Search bar
+- Song details page with lyrics
+- Artist page showing related songs
 
 Visit the site here: https://christify-music-player.netlify.app/
 
